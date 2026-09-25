@@ -10,4 +10,6 @@
  - Adicionar mudanças no pacote usando "git add ." ("." significa todos os arquivos)
  - Salvar o pacote usando o "git commit -m 'mensagem'"
 
- #
+ # ENVIAR PACOTES AO GITHUB
+
+ - Git push
