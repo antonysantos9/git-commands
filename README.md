@@ -4,7 +4,7 @@
  - Criar pasta no computador
  - Iniciar o git com o comando "git init"
  - Vincular com o GitHub "git remote add origin <Link>"
- - Subir a branch com todos os commits usando "git push -u origin <nome da branch> 
+ - Subir a branch com todos os commits usando "git push -u origin <nome da branch>"
 
  # SALVAR MUDANÇAS NO REPOSITORIO
  - Adicionar mudanças no pacote usando "git add ." ("." significa todos os arquivos)
