@@ -13,3 +13,7 @@
  # ENVIAR PACOTES AO GITHUB
 
  - Git push
+
+ # RECEBER PACOTES DO GITHUB
+
+ - Git pull
