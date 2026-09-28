@@ -27,7 +27,7 @@
 # COMANDOS DE BRANCH
 
  - Criar nova branch "git branch \<nome\>"
- - Mudar de branch "git checkout \<nome\>"
+ - Mudar de branch "git checkout \<nome\> ou clicar 2 vezes na branch"
 
 
  
