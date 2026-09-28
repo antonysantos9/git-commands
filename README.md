@@ -24,7 +24,10 @@
  - Configurar nome de usuário usando "git config --global user.name "Nome""
  - Configurar email de usuário usando "git config --global user.email "email"" 
 
+# COMANDOS DE BRANCH
 
+ - Criar nova branch "git branch \<nome\>"
+ - Mudar de branch "git checkout \<nome\>"
 
 
  
