@@ -7,7 +7,7 @@
  - Subir a branch com todos os commits usando "git push -u origin \<nome da branch\>"
 
  # SALVAR MUDANÇAS NO REPOSITORIO
- 
+
  - Adicionar mudanças no pacote usando "git add ." ("." significa todos os arquivos)
  - Salvar o pacote usando o "git commit -m 'mensagem'"
 
@@ -23,3 +23,8 @@
 
  - Configurar nome de usuário usando "git config --global user.name "Nome""
  - Configurar email de usuário usando "git config --global user.email "email"" 
+
+
+
+
+ 
